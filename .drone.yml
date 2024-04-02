@@ -58,7 +58,7 @@ steps:
   - name: trigger update
     image: curlimages/curl
     commands:
-      - "curl --fail -X GET 'http://173.249.37.187:8080/v1/update' -H 'Authorization: Bearer mytoken'" # Must match the token defined in docker-compose.yml
+      - "curl --fail -X GET 'http://173.249.33.42:8080/v1/update' -H 'Authorization: Bearer mytoken'" # Must match the token defined in docker-compose.yml
       - sleep 10
     depends_on:
       - publish api
@@ -68,7 +68,7 @@ steps:
     image: flyway/flyway
     commands:
       - flyway migrate
-          -url=jdbc:mariadb://173.249.37.187:3306/forecasts
+          -url=jdbc:mariadb://173.249.33.42:3306/forecasts
           -user=myuser
           -password=mypassword
           -locations=filesystem:./db/sql
