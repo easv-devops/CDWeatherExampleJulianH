@@ -1,0 +1,14 @@
+﻿C:\Users\julia\RiderProjects\CDWeatherExampleJulianH\src\WeatherAPI\DatabaseService.cs
+C:\Users\julia\RiderProjects\CDWeatherExampleJulianH\src\WeatherAPI\ForecastService.cs
+C:\Users\julia\RiderProjects\CDWeatherExampleJulianH\src\WeatherAPI\IDatabaseService.cs
+C:\Users\julia\RiderProjects\CDWeatherExampleJulianH\src\WeatherAPI\Program.cs
+C:\Users\julia\RiderProjects\CDWeatherExampleJulianH\src\WeatherAPI\obj\Debug\net8.0\WeatherAPI.GlobalUsings.g.cs
+C:\Users\julia\RiderProjects\CDWeatherExampleJulianH\src\WeatherAPI\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+C:\Users\julia\RiderProjects\CDWeatherExampleJulianH\src\WeatherAPI\obj\Debug\net8.0\WeatherAPI.AssemblyInfo.cs
+C:\Users\julia\RiderProjects\CDWeatherExampleJulianH\src\WeatherAPI\obj\Debug\net8.0\WeatherAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\julia\RiderProjects\CDWeatherExampleJulianH\src\WeatherAPI\appsettings.Development.json
+C:\Users\julia\RiderProjects\CDWeatherExampleJulianH\src\WeatherAPI\appsettings.json
+C:\Users\julia\RiderProjects\CDWeatherExampleJulianH\src\.dockerignore
+C:\Users\julia\RiderProjects\CDWeatherExampleJulianH\src\WeatherAPI\Dockerfile
+C:\Users\julia\RiderProjects\CDWeatherExampleJulianH\src\WeatherAPI\WeatherAPI.http
+C:\Users\julia\RiderProjects\CDWeatherExampleJulianH\src\WeatherAPI\Properties\launchSettings.json

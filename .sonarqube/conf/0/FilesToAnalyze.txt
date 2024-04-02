@@ -1,0 +1,1 @@
+﻿C:\Users\julia\RiderProjects\CDWeatherExampleJulianH\src\Models\WeatherForecast.cs
